@@ -5,7 +5,6 @@
 **`Maker / Reverser / Dumpster Wizard`**
 
 [![YouTube](https://img.shields.io/badge/YouTube-%40RaccoonFacts-red?style=flat-square&logo=youtube)](https://youtube.com/@RaccoonFacts)
-[![GitHub followers](https://img.shields.io/github/followers/RaccoonFacts?style=flat-square&logo=github)](https://github.com/RaccoonFacts)
 
 </div>
 
@@ -89,11 +88,13 @@
 
 ---
 
+![Views](https://komarev.com/ghpvc/?username=RaccoonFacts&style=flat-square&color=grey)
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![RaccoonFacts's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccoonFacts&show_icons=true&theme=tokyonight&hide_border=true)
+![RaccoonFacts's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccoonFacts&show_icons=true&theme=tokyonight&hide_border=true&show=discussions_answered&hide=prs,issues,contribs&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonFacts&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
