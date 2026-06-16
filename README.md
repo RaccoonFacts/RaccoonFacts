@@ -88,7 +88,7 @@
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=RaccoonFacts&style=flat-square&color=grey)
+![Views](https://komarev.com/ghpvc/?username=RaccoonFacts&style=flat-square&color=grey +1000)
 
 ### 📊 GitHub Stats
 
