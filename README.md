@@ -88,7 +88,7 @@
 
 ---
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaccoonFacts&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
+![](https://visitcount.itsvg.in/api?id=RaccoonFacts&label=Profile%20Views&color=0&icon=0&pretty=false)
 
 ### 📊 GitHub Stats
 
