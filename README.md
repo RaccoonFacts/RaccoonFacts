@@ -88,7 +88,7 @@
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=RaccoonFacts&label=Profile%20Views&color=0&icon=0&pretty=false)
+![Profile Views](https://komarev.com/ghpvc/?username=RaccoonFacts&color=grey&style=flat-square)
 
 ### 📊 GitHub Stats
 
