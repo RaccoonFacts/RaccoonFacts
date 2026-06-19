@@ -88,7 +88,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=RaccoonFacts&color=grey&style=flat-square)
+![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRaccoonFacts&query=%24.public_repos&label=Profile+Views&color=grey&style=flat-square)
 
 ### 📊 GitHub Stats
 
