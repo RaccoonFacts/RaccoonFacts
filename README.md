@@ -88,7 +88,7 @@
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=raccoonfacts&style=flat-square&color=grey)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaccoonFacts&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=true)
 
 ### 📊 GitHub Stats
 
