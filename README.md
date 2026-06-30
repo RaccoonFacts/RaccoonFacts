@@ -17,6 +17,7 @@
 - 🎮 Game modder — BepInEx, UE4/5, memory hacking, trainer dev
 - 📡 Embedded / firmware work — flash chips, SPI, UART, custom firmware
 - 🔐 Cybersecurity student — Security+, eJPT, TryHackMe
+- 🐙 API Abuser - F4F, Auto followers, Mass Stars ect
 
 ---
 
