@@ -94,7 +94,7 @@
 
 <div align="center">
 
-![RaccoonFacts's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaccoonFacts&show_icons=true&theme=tokyonight&hide_border=true&show=discussions_answered&hide=prs,issues,contribs&include_all_commits=true)
+![RaccoonFacts's GitHub stats]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonFacts&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
