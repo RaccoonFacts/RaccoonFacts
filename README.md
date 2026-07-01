@@ -94,7 +94,6 @@
 
 <div align="center">
 
-![RaccoonFacts's GitHub stats]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonFacts&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
