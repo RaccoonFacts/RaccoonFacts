@@ -103,7 +103,7 @@
 
 ### 🎓 Certificates
 
-[![THM AI Security](https://images.credly.com/size/110x110/images/3dadb732-30df-4c44-b24f-ead2056fec5a/image.png)](https://www.credly.com/badges/3dadb732-30df-4c44-b24f-ead2056fec5a)
+[![THM AI Security](https://images.credly.com/size/340x340/images/adbe53f5-8006-406b-a166-04005c6f0a6c/blob)](https://www.credly.com/badges/3dadb732-30df-4c44-b24f-ead2056fec5a/public_url)
 
 ---
 
