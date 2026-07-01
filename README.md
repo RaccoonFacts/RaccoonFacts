@@ -17,7 +17,7 @@
 - 🎮 Game modder — BepInEx, UE4/5, memory hacking, trainer dev
 - 📡 Embedded / firmware work — flash chips, SPI, UART, custom firmware
 - 🔐 Cybersecurity student — Security+, eJPT, TryHackMe
-- 🐙 API Abuser - F4F, Auto followers,Crawlers, Mass Stars ect
+- 🐙 API Abuser - F4F, Auto followers, Crawlers, Mass Stars etc
 
 ---
 
@@ -90,6 +90,7 @@
 ---
 
 ![Views](https://komarev.com/ghpvc/?username=RaccoonFacts&style=flat-square&color=grey)
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -97,6 +98,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonFacts&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+### 🎓 Certificates
+
+[![THM AI Security](https://images.credly.com/size/110x110/images/3dadb732-30df-4c44-b24f-ead2056fec5a/image.png)](https://www.credly.com/badges/3dadb732-30df-4c44-b24f-ead2056fec5a)
 
 ---
 
