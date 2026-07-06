@@ -5,7 +5,7 @@
 **`Maker / Reverser / Dumpster Wizard`**
 
 [![YouTube](https://img.shields.io/badge/YouTube-%40RaccoonFacts-red?style=flat-square&logo=youtube)](https://youtube.com/@RaccoonFacts)
-
+![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0u47g4vunP2ZERk9lwpiAQ?style=flat-square&logo=youtube&color=red)
 </div>
 
 ---
