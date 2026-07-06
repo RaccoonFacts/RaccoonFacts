@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦝 RaccoonFacts
+# 🦝 RaccoonFacts 🦝
 
 **`Maker / Reverser / Dumpster Wizard`**
 
