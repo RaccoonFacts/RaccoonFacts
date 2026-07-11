@@ -112,5 +112,5 @@
 ---
 
 <div align="center">
-<sub>Built with 🗑️ salvaged parts and questionable life choices</sub>
+<sub>Built with 🗑️ salvaged parts/sub>
 </div>
