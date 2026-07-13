@@ -14,9 +14,9 @@
 
 - 🔩 I take apart things I shouldn't and make them do things they weren't meant to
 - 🦝 Dumpster diver, hardware hacker, and occasional chaos goblin
-- 🎮 Game modder - BepInEx, UE4/5, memory hacking, trainer dev
-- 📡 Embedded / firmware work - flash chips, SPI, UART, custom firmware
-- 🔐 Cybersecurity student - Security+, eJPT, TryHackMe
+- 🎮 Game modder — BepInEx, UE4/5, memory hacking, trainer dev
+- 📡 Embedded / firmware work — flash chips, SPI, UART, custom firmware
+- 🔐 Cybersecurity student — Security+, eJPT, TryHackMe
 - 🐙 API Abuser - F4F, Auto followers, Crawlers, Mass Stars etc
 
 ---
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonFacts&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaccoonFacts&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
@@ -112,5 +112,5 @@
 ---
 
 <div align="center">
-<sub>Built with 🗑️ salvaged parts and fun! </sub>
+<sub>Built with 🗑️ salvaged parts and questionable life choices</sub>
 </div>
