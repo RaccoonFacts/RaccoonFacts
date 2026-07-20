@@ -18,7 +18,6 @@
 - 📡 Embedded / firmware work — flash chips, SPI, UART, custom firmware
 - 🔐 Cybersecurity student — Security+, eJPT, TryHackMe
 - 🐙 API Abuser - F4F, Auto followers, Crawlers, Mass Stars etc
-- 🎥 Video Editor, youtuber (will return soon)
 
 ---
 
